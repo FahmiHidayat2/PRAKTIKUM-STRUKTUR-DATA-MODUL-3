@@ -293,7 +293,8 @@ Nilai maksimum tersebut kemudian ditukar dengan elemen pertama yang belum diurut
 Proses ini diulang hingga seluruh array terurut.
 
 #### Output:
-<img width="517" alt="image" src="https://github.com/FahmiHidayat2/PRAKTIKUM-STRUKTUR-DATA-MODUL-3/assets/161399477/321822ae-4877-4ce9-bfdd-7fde0984acbd">
+<img width="481" alt="image" src="https://github.com/FahmiHidayat2/PRAKTIKUM-STRUKTUR-DATA-MODUL-3/assets/161399477/a7c93946-ad9b-4db4-a5fa-e481257ccd80">
+
 
 ### 2. Pak RT memiliki 10 warga dengan nama: siti, situ, sana, ana, ani, caca, cici, dida, dodo, dan dadi. Supaya mudah dalam melakukan pencarian, Pak RT akan mengurutkan nama-nama tersebut sesuai dengan alfabet. Buatlah program untuk membantu Pak RT dengan menggunakan algoritma Bubble Sort!
 ```c++
