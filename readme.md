@@ -271,7 +271,7 @@ int main() {
     
     cout << "" << endl;
     cout << "" << endl;
-    cout << "By: Fito Satrio (2311110030)" << endl;
+    cout << "By: Fahmi Hidayat (2311110063)" << endl;
 
     return 0;
 }
